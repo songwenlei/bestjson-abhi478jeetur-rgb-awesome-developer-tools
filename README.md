@@ -55,6 +55,7 @@
 - **Babel** - JavaScript compiler
 - **ESLint** - JavaScript linter
 - **Prettier** - Code formatter
+- **[BestJSON JSON Diff](https://bestjson.com/json-diff)** - Compare JSON structures and inspect added, removed or changed values by path in the browser
 
 ## Learning Resources
 
